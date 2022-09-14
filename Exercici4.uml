@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_7gDb8DRdEe2fprEmdJTEeg" name="Exercici4">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_7gzC0DRdEe2fprEmdJTEeg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_9CthgDRdEe2fprEmdJTEeg" name="Package2">
+    <packagedElement xmi:type="uml:Class" xmi:id="_Dafi8DReEe2fprEmdJTEeg" name="Viaje"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_HQLbEDReEe2fprEmdJTEeg" name="Fecha"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_KtHcADReEe2fprEmdJTEeg" name="Catalogo"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_LczMgDReEe2fprEmdJTEeg" name="Reserva"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_MO8bIDReEe2fprEmdJTEeg" name="Cliente"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_bC0fIDReEe2fprEmdJTEeg" name="asd" client="_Dafi8DReEe2fprEmdJTEeg" supplier="_KtHcADReEe2fprEmdJTEeg"/>
+    <packagedElement xmi:type="uml:Abstraction" xmi:id="_dzeo4DReEe2fprEmdJTEeg" name="aaaaaa" client="_KtHcADReEe2fprEmdJTEeg" supplier="_Dafi8DReEe2fprEmdJTEeg"/>
+  </packagedElement>
+</uml:Model>
